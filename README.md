@@ -1,2 +1,2 @@
-# hello-world
-This repository is for practicing the GitHub flow.
+My name is Shubhra. I am a fullstack java developer.
+I have around 2 years of experience.
